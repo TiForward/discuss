@@ -1,6 +1,7 @@
 # Ti.Forward discussions
 
 > **By** the Titanium™ community
+>
 > **For** the Titanium™ community
 
 - **Sign the manifesto** by stargazing this repository
